@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+*.exe
+*.test
+*.out
+*.wasm
+bin/
+dist/
+.cache/
+.gocache/
+.runtime/

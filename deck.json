@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "cards": [
+    {"id": "lexicon", "repository": "https://github.com/SirNiklas9/Lexicon"},
+    {"id": "splice", "repository": "https://github.com/SirNiklas9/Splice"},
+    {"id": "scry", "repository": "https://github.com/SirNiklas9/Scry"},
+    {"id": "trace", "repository": "https://github.com/SirNiklas9/Trace"},
+    {"id": "lens", "repository": "https://github.com/SirNiklas9/Lens"},
+    {"id": "atlas", "repository": "https://github.com/SirNiklas9/Atlas"}
+  ]
+}
